@@ -10,4 +10,5 @@ You will definetely dive into a more detailed information visiting our website:
 
 
 ## Usage
+![screenshot](https://user-images.githubusercontent.com/111701536/192900474-4722391b-0e42-4f15-ac01-33a20ee44ea5.png)
 
